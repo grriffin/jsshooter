@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Barlow+Condensed);
+
+.instructions {
+  color:#6ef442;
+  display:float;
+  position:relative;
+  font-family: 'Barlow Condensed', sans-serif;
+  left:10px;
+  top:-10px;
+}
+
+.instructions h3 {
+  position:absolute;
+}
+
+.infoBlock {
+  color:#6ef442;
+  display:float;
+  position:relative;
+  font-family: 'Barlow Condensed', sans-serif;
+  left:10px;
+  top:15px;
+}
+
+.infoBlock h3 {
+  position:absolute;
+}
